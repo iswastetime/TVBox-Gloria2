@@ -1560,7 +1560,7 @@ CHC家庭组播,http://111.167.224.47:8888/udp/225.1.1.213:5002
 @老澳21:32开始,https://aa.jmied.com/aa/aa.flv?auth_key=1661059701-0-0-18edbe2ace26cc97f5e86aaee951497e
 @老澳21:32官方,https://vdm6-ali.oujinghb.com/live/2032-2.flv
 
-📡以上         _7777,#genre#
+👉以上         _7777,#genre#
 Adult 01,http://streamsy.online:2999/coachj88/N93DPKS9pJ/750
 Adult 02,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1035
 Adult 03,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1036
@@ -1688,7 +1688,7 @@ FSOG-067,https://t21.cdn2020.com/video/m3u8/2023/03/06/a800ea05/index.m3u8
 MCY-0134,https://t21.cdn2020.com/video/m3u8/2023/01/20/701e7558/index.m3u8
 
 
-📡免费         _8888,#genre#
+👉免费         _8888,#genre#
 國產源擼閣①,https://lbbf9.com/20191102/8tOZ9w12/index.m3u8
 國產源擼閣②,https://lbbf9.com/20191030/hwjpxFVH/index.m3u8
 國產源擼閣③,https://lbbf9.com/20191030/8Zgys1TO/index.m3u8
